@@ -1067,7 +1067,7 @@ plt.show()
 
 
     
-![png](output_25_0.png)
+![png](Dataset/output_25_0.png)
     
 
 
@@ -1092,7 +1092,7 @@ plt.show()
 
 
     
-![png](output_27_0.png)
+![png](Dataset/output_27_0.png)
     
 
 
@@ -1129,7 +1129,7 @@ plt.show()
 
 
     
-![png](output_30_0.png)
+![png](Dataset/output_30_0.png)
     
 
 
@@ -1141,4 +1141,4 @@ plt.show()
 
 
     
-![png](output_31_0.png)
+![png](Dataset/output_31_0.png)
